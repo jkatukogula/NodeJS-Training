@@ -1,0 +1,20 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "fileupload",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.12.0",
+    "file": "^0.2.2",
+    "formidable": "^1.0.17",
+    "fs": "0.0.2",
+    "multer": "^0.1.8",
+    "grunt-nodemon":""
+  }
+}
